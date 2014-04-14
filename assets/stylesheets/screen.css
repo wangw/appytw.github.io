@@ -151,16 +151,21 @@ a.btn:active {
 }
 
 @media screen and (max-width: 360px) {
+<<<<<<< HEAD
 
 }
 
 .fb-wrapper {
   width: 100%;
   padding: 30px;
+=======
+
+>>>>>>> appytw-master
 }
 
-.fb-like {
-  margin-left: 50px;
+.fb-wrapper {
+  width: 100%;
+  padding: 30px;
 }
 
 .fan-page {
@@ -173,6 +178,8 @@ a.btn:active {
   padding-left: 5px;
   padding-right: 5px;
   border-radius: 2px;
+  float: left;
+  margin-right: 5px;
 }
 
 .fan-page > a {
